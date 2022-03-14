@@ -1,0 +1,51 @@
+{
+    "signup": {
+        "name": "Ione Dias",
+        "cpf": "00000014141",
+        "email": "ione@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "05336010",
+            "street": "Rua Floresto Bandecchi",
+            "number": "479",
+            "details": "Ap 142",
+            "district": "Jaguaré",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Ione Dias",
+        "cpf": "00000014AAA",
+        "email": "ione@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "05336010",
+            "street": "Rua Floresto Bandecchi",
+            "number": "479",
+            "details": "Ap 142",
+            "district": "Jaguaré",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Ione Dias",
+        "cpf": "00000014141",
+        "email": "ione.com.br",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "05336010",
+            "street": "Rua Floresto Bandecchi",
+            "number": "479",
+            "details": "Ap 142",
+            "district": "Jaguaré",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+
+}
